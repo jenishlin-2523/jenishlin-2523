@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, my name is Jenishlin</h1>
-<h3 align="center">I'm a Passionate 3d designer | Game developer | full stack developer Based in India.💻👨‍💻✨</h3>
+<h3 align="center">I'm a Passionated full stack developer | 3d designer | Game developer based in India.💻👨‍💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenishlin-2523&label=Profile%20views&color=0e75b6&style=flat" alt="jenishlin-2523" /> </p>
 
