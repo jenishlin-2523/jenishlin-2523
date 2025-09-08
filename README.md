@@ -9,7 +9,7 @@
 
 ## 💻 About Me: Jenishlin Brisho
 
-Hello! I'm Jenishlin, a **passionate 3D Designer**, **Game Developer**, and **Full-Stack Developer** based in India. My expertise lies in crafting immersive digital experiences, from intricate 3D models and interactive game environments to robust, user-centric web applications. I'm driven by a curiosity for technology and a commitment to creating elegant, efficient, and innovative solutions. I believe that the intersection of art and code is where true magic happens, and I'm always eager to learn and grow in both fields.
+Hello! I'm Jenishlin, a  **passionate Full-Stack Developer**, **3D Designer**, and **Game Developer**,  based in India. My expertise lies in crafting immersive digital experiences, from intricate 3D models and interactive game environments to robust, user-centric web applications. I'm driven by a curiosity for technology and a commitment to creating elegant, efficient, and innovative solutions. I believe that the intersection of art and code is where true magic happens, and I'm always eager to learn and grow in both fields.
 
 ---
 
